@@ -1,0 +1,6 @@
+C:\Users\user.000\documents\visual studio 2015\Projects\MyFirstCollection\MyNewList\bin\Debug\MyNewList.exe.config
+C:\Users\user.000\documents\visual studio 2015\Projects\MyFirstCollection\MyNewList\bin\Debug\MyNewList.exe
+C:\Users\user.000\documents\visual studio 2015\Projects\MyFirstCollection\MyNewList\bin\Debug\MyNewList.pdb
+C:\Users\user.000\documents\visual studio 2015\Projects\MyFirstCollection\MyNewList\obj\Debug\MyNewList.csprojResolveAssemblyReference.cache
+C:\Users\user.000\documents\visual studio 2015\Projects\MyFirstCollection\MyNewList\obj\Debug\MyNewList.exe
+C:\Users\user.000\documents\visual studio 2015\Projects\MyFirstCollection\MyNewList\obj\Debug\MyNewList.pdb
